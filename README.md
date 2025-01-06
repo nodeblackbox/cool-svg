@@ -103,7 +103,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## **📞 Contact**
 
 **CeeCee Jupiverse**  
-- **Email:** [your.email@example.com](mailto:your.email@example.com)  
 - **GitHub:** [github.com/nodeblackbox/cool-svg](https://github.com/nodeblackbox/cool-svg)  
 - **X:** [@CeeCeeJupiverse](https://x.com/CeeCeeJupiverse)  
 - **Reddit:** [u/CeeCeeJupiverse](https://www.reddit.com/user/CeeCeeJupiverse)
